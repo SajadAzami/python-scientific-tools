@@ -9,7 +9,7 @@
 
 ## Headlines:
 
-* Introduction to Python
+* **Introduction to Python:**
   * Basic Concepts In Python
   * Setting Up Python
   * Python General Syntax
@@ -17,7 +17,7 @@
   * Functions and Classes
   * File I/O
 
-* Introduction to NumPy, Matplotlib, IPython
+* **Introduction to NumPy, Matplotlib, IPython:**
   * Python Data Structures
   * Python Containers
   * Introduction to NumPy Package
@@ -25,21 +25,21 @@
   * Smoothing Data in Matplotlib
   * Introduction to IPython Package
 
-* Introduction to Pandas
+* **Introduction to Pandas:**
   * Pandas Overview
   * Series in Pandas
   * DataFrames in Pandas
   * Multi Level Indices
   * Aggregation
 
-* Introduction to Scikit
+* **Introduction to Scikit:**
   * Slight Introduction to Machine Learning
   * Loading Dataset with Scikit
   * Learning a Model with Scikit
   * Testing the Model
   * Model Persistence
 
-* Implementing Examples
+* **Implementing Examples:**
   * Word Anagrams with NumPy
   * Baby Names with Pandas
   * Scikit Example

@@ -9,37 +9,41 @@
 
 ## Headlines:
 
-* **Introduction to Python:**
-  * Basic Concepts In Python
-  * Setting Up Python
-  * Python General Syntax
-  * Loops and Conditions
-  * Functions and Classes
-  * File I/O
-
-* **Introduction to NumPy, Matplotlib, IPython:**
+* **Introduction to NumPy:**
   * Python Data Structures
   * Python Containers
   * Introduction to NumPy Package
+  * Working with NumPy Arrays
+  * Indexing and Slicing
+
+* **Introduction to Plotting Tools:**
   * Plotting Data with Matplotlib
   * Smoothing Data in Matplotlib
-  * Introduction to IPython Package
-
+  * Using Seaborn
+  
 * **Introduction to Pandas:**
   * Pandas Overview
   * Series in Pandas
   * DataFrames in Pandas
   * Multi Level Indices
   * Aggregation
+  * Working with Large Datasets
+
+* **Introduction to Scipy Stats:**
+  * Continuous and Discrete Distributions
+  * Useful Functions for Statistical Experiments
 
 * **Introduction to Scikit:**
   * Slight Introduction to Machine Learning
-  * Loading Dataset with Scikit
+  * Preprocessing
   * Learning a Model with Scikit
   * Testing the Model
+  * Evaluation Methods
+  * Useful Functions for Model Selection
   * Model Persistence
 
-* **Implementing Examples:**
+* **Examples:**
   * Word Anagrams with NumPy
   * Baby Names with Pandas
-  * Scikit Example
+  * A Statistical Simulation
+  * Learning and Evaluating Various Models with Scikit

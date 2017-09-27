@@ -1,2 +1,3 @@
 # python-scientific-tools
-Python Workshop, 9th LinuxFest, May 2017
+Python Workshop: An Introduction to Scientific Tools Edit
+9th Linux Festival, May 2017

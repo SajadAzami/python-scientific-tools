@@ -1,5 +1,4 @@
 # python-scientific-tools
-<<<<<<< HEAD
 Python Workshop, 9th LinuxFest, May 2017
 
 ## Prerequisites:
@@ -49,7 +48,3 @@ Python Workshop, 9th LinuxFest, May 2017
   * Baby Names with Pandas
   * A Statistical Simulation
   * Learning and Evaluating Various Models with Scikit
-=======
-Python Workshop: An Introduction to Scientific Tools Edit
-9th Linux Festival, May 2017
->>>>>>> 69b36c5f88b16f5548bbcceb4868590c8829f4ca
